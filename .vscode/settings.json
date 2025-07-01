@@ -1,10 +1,21 @@
 {
     "cSpell.words": [
         "figsize",
+        "Hieu",
+        "hyperparameters",
         "hyperparams",
+        "itertools",
         "lbfgs",
+        "matplotlib",
+        "numpy",
+        "overfitting",
+        "relu",
+        "scikit",
+        "seaborn",
         "ucimlrepo",
         "ucirepo",
+        "underfitting",
+        "venv",
         "xlabel",
         "xticks",
         "ylabel"
